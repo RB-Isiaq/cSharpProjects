@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\bin\Debug\net7.0\LogicalConditions.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\bin\Debug\net7.0\LogicalConditions.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\bin\Debug\net7.0\LogicalConditions.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\bin\Debug\net7.0\LogicalConditions.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\bin\Debug\net7.0\LogicalConditions.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\LogicalConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\LogicalConditions.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\LogicalConditions.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\LogicalConditions.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\LogicalConditions.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\refint\LogicalConditions.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\LogicalConditions.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\LogicalConditions.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\LogicalConditions\obj\Debug\net7.0\ref\LogicalConditions.dll

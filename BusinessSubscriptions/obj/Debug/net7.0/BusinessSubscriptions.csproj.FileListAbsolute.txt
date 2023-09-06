@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\bin\Debug\net7.0\BusinessSubscriptions.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\bin\Debug\net7.0\BusinessSubscriptions.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\bin\Debug\net7.0\BusinessSubscriptions.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\bin\Debug\net7.0\BusinessSubscriptions.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\bin\Debug\net7.0\BusinessSubscriptions.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\BusinessSubscriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\BusinessSubscriptions.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\BusinessSubscriptions.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\BusinessSubscriptions.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\BusinessSubscriptions.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\refint\BusinessSubscriptions.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\BusinessSubscriptions.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\BusinessSubscriptions.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\BusinessSubscriptions\obj\Debug\net7.0\ref\BusinessSubscriptions.dll

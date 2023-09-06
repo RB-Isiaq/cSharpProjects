@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\bin\Debug\net7.0\Expression.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\bin\Debug\net7.0\Expression.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\bin\Debug\net7.0\Expression.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\bin\Debug\net7.0\Expression.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\bin\Debug\net7.0\Expression.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\Expression.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\Expression.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\Expression.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\Expression.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\refint\Expression.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\Expression.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\Expression.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\CsharpProjects\Expression\obj\Debug\net7.0\ref\Expression.dll

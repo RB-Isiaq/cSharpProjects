@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LogicalConditions/1.0.0": {
+        "runtime": {
+          "LogicalConditions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicalConditions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
