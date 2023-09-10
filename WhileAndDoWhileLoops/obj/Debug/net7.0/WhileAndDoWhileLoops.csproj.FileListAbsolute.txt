@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\bin\Debug\net7.0\WhileAndDoWhileLoops.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\bin\Debug\net7.0\WhileAndDoWhileLoops.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\bin\Debug\net7.0\WhileAndDoWhileLoops.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\bin\Debug\net7.0\WhileAndDoWhileLoops.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\bin\Debug\net7.0\WhileAndDoWhileLoops.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\WhileAndDoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\WhileAndDoWhileLoops.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\WhileAndDoWhileLoops.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\WhileAndDoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\WhileAndDoWhileLoops.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\refint\WhileAndDoWhileLoops.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\WhileAndDoWhileLoops.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\WhileAndDoWhileLoops.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileLoops\obj\Debug\net7.0\ref\WhileAndDoWhileLoops.dll
