@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\CodeBlocks\\CodeBlocks.csproj": {}
+    "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\SwitchStatements\\SwitchStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\CodeBlocks\\CodeBlocks.csproj": {
+    "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\SwitchStatements\\SwitchStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\CodeBlocks\\CodeBlocks.csproj",
-        "projectName": "CodeBlocks",
-        "projectPath": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\CodeBlocks\\CodeBlocks.csproj",
+        "projectUniqueName": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\SwitchStatements\\SwitchStatements.csproj",
+        "projectName": "SwitchStatements",
+        "projectPath": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\SwitchStatements\\SwitchStatements.csproj",
         "packagesPath": "C:\\Users\\HP-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\CodeBlocks\\obj\\",
+        "outputPath": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\SwitchStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

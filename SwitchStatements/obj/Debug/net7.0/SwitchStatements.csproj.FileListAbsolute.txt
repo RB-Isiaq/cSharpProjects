@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\bin\Debug\net7.0\SwitchStatements.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\bin\Debug\net7.0\SwitchStatements.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\bin\Debug\net7.0\SwitchStatements.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\bin\Debug\net7.0\SwitchStatements.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\bin\Debug\net7.0\SwitchStatements.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\SwitchStatements.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\refint\SwitchStatements.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\SwitchStatements.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\SwitchStatements.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\SwitchStatements\obj\Debug\net7.0\ref\SwitchStatements.dll
