@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\refint\FizzBuzzChallenge.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\ref\FizzBuzzChallenge.dll
