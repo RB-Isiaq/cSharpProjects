@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\refint\GameBattleChallenge.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\GameBattleChallenge\obj\Debug\net7.0\ref\GameBattleChallenge.dll
