@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\WhileAndDoWhileDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\WhileAndDoWhileDiff.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\WhileAndDoWhileDiff.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\WhileAndDoWhileDiff.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\bin\Debug\net7.0\WhileAndDoWhileDiff.exe
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\bin\Debug\net7.0\WhileAndDoWhileDiff.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\bin\Debug\net7.0\WhileAndDoWhileDiff.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\bin\Debug\net7.0\WhileAndDoWhileDiff.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\bin\Debug\net7.0\WhileAndDoWhileDiff.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\WhileAndDoWhileDiff.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\refint\WhileAndDoWhileDiff.dll
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\WhileAndDoWhileDiff.pdb
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\WhileAndDoWhileDiff.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\FCC cSharp\cSharpProjects\WhileAndDoWhileDiff\obj\Debug\net7.0\ref\WhileAndDoWhileDiff.dll
