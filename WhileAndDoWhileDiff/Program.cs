@@ -17,7 +17,7 @@ if (validNumber)
     Console.WriteLine($"The number is {readResult}", numericValue);
 } */
 
-/* // Code project 1 - write code that validates integer input
+/*  // Code project 1 - write code that validates integer input
 string? readResult;
 int numericValue = 0;
 bool validNumber = false;
@@ -39,7 +39,7 @@ do
     
 
 } while (numericValue < 6 || numericValue > 9); */
-
+ 
 /* // Code project 2 - write code that validates string input
 string? readResult;
 string[] roles = {"administrator", "manager", "user"};
@@ -49,7 +49,7 @@ while (!roles.Contains(role))
 {
     Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
     readResult = Console.ReadLine();
-    role = readResult.Trim().ToLower();
+    if(readResult != null) role = readResult.Trim().ToLower();
     Console.WriteLine(role);
     if (!roles.Contains(role))
         Console.Write($"The role name that you entered, '{role}' is not valid. ");
@@ -58,10 +58,10 @@ while (!roles.Contains(role))
         Console.Write($"Your input value {(role)} has been accepted.");
         break;
     }
-}
- */
+} */
 
- // Code project 3 - Write code in the code editor to implement code that achieves the project conditions
+
+/*  // Code project 3 - Write code in the code editor to implement code that achieves the project conditions
 
  string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
  string substring = "";
@@ -77,16 +77,56 @@ while (!roles.Contains(role))
     Console.WriteLine(periodLocation);
    
 
-        substring = myString;
 
     do
     {
+        substring = myString;
         periodLocation = substring.IndexOf(".");
         removed = substring.Remove(periodLocation);
         substring = substring.Substring(periodLocation);
         Console.WriteLine(removed);
         Console.WriteLine(substring);
+        periodLocation = removed.IndexOf(".");
+        removed = substring.Remove(periodLocation);
+        Console.WriteLine(removed);
+        Console.WriteLine(substring);
         counter++;
-    } while (counter <= myStrings.Length - 1);
- }
+    } while (counter <= myStrings.Length - 1 && periodLocation != -1);
+ } */
 
+// This is the right way to solve it
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+int stringsCount = myStrings.Length;
+
+string myString = "";
+int periodLocation = 0;
+
+for (int i = 0; i < stringsCount; i++)
+{
+    myString = myStrings[i];
+    periodLocation = myString.IndexOf(".");
+
+    string mySentence;
+
+    // extract sentences from each string and display them one at a time
+    while (periodLocation != -1)
+    {
+
+        // first sentence is the string value to the left of the period location
+        mySentence = myString.Remove(periodLocation);
+
+        // the remainder of myString is the string value to the right of the location
+        myString = myString.Substring(periodLocation + 1);
+
+        // remove any leading white-space from myString
+        myString = myString.TrimStart();
+
+        // update the comma location and increment the counter
+        periodLocation = myString.IndexOf(".");
+
+        Console.WriteLine(mySentence);
+    }
+ 
+    mySentence = myString.Trim();
+    Console.WriteLine(mySentence);
+}
