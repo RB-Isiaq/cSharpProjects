@@ -19,7 +19,9 @@ string[,] ourAnimals = new string[maxPets, 6];
 // create some initial ourAnimals array entries
 for (int i = 0; i < maxPets; i++)
 {
-    if (i == 0)
+    switch(i) 
+    {
+        case 0:
     {
         animalSpecies = "dog";
         animalID = "d1";
@@ -27,8 +29,9 @@ for (int i = 0; i < maxPets; i++)
         animalPhysicalDescription = "medium sized cream colored female golden retriever weighing about 65 pounds. housebroken.";
         animalPersonalityDescription = "loves to have her belly rubbed and likes to chase her tail. gives lots of kisses.";
         animalNickname = "lola";
+        break;
     }
-    else if (i == 1)
+    case 1:
     {
         animalSpecies = "dog";
         animalID = "d2";
@@ -36,8 +39,9 @@ for (int i = 0; i < maxPets; i++)
         animalPhysicalDescription = "large reddish-brown male golden retriever weighing about 85 pounds. housebroken.";
         animalPersonalityDescription = "loves to have his ears rubbed when he greets you at the door, or at any time! loves to lean-in and give doggy hugs.";
         animalNickname = "loki";
+        break;
     }
-    else if (i == 2)
+    case 2:
     {
         animalSpecies = "cat";
         animalID = "c3";
@@ -45,8 +49,9 @@ for (int i = 0; i < maxPets; i++)
         animalPhysicalDescription = "small white female weighing about 8 pounds. litter box trained.";
         animalPersonalityDescription = "friendly";
         animalNickname = "Puss";
+        break;
     }
-    else if (i == 3)
+    case 3:
     {
         animalSpecies = "cat";
         animalID = "c4";
@@ -54,15 +59,18 @@ for (int i = 0; i < maxPets; i++)
         animalPhysicalDescription = "";
         animalPersonalityDescription = "";
         animalNickname = "";
+        break;
     }
-    else
+    default:
     {
         animalSpecies = "";
         animalID = "";
         animalAge = "";
-        // animalPhysicalDescription = "";
-        // animalPersonalityDescription = "";
-        // animalNickname = "";
+        animalPhysicalDescription = "";
+        animalPersonalityDescription = "";
+        animalNickname = "";
+    }
+        break;
     }
 
     ourAnimals[i, 0] = "ID #: " + animalID;

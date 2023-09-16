@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {}
+    "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\starter\\Starter.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {
+    "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "c:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectPath": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\HP-PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\HP-PC\\OneDrive\\Desktop\\FCC cSharp\\cSharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
