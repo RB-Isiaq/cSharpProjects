@@ -60,9 +60,9 @@ for (int i = 0; i < maxPets; i++)
         animalSpecies = "";
         animalID = "";
         animalAge = "";
-        animalPhysicalDescription = "";
-        animalPersonalityDescription = "";
-        animalNickname = "";
+        // animalPhysicalDescription = "";
+        // animalPersonalityDescription = "";
+        // animalNickname = "";
     }
 
     ourAnimals[i, 0] = "ID #: " + animalID;
